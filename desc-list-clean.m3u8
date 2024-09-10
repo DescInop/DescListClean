@@ -153,12 +153,6 @@ http://authbr15jul.halites.online:80/5915/index.m3u8
 http://izcdn.vood.top:80/hls/522_.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 8
 http://authbr15jul.halites.online:80/5914/index.m3u8
-#EXTINF:-1 group-title="Privado (+18)" tvg-id="Playboy Tv" tvg-name="Playboy Tv" tvg-logo="https://toppng.com/uploads/preview/open-playboy-tv-logo-11563247298s3fcukcvna.png" ,Playboy Tv
-https://new.embedflix.co/p2p/playboy/chunks.m3u8
-#EXTINF:-1 group-title="Privado (+18)" tvg-id="Sex Treme" tvg-name="Sex Treme" tvg-logo="https://bot.midiasimples.com.br/storage/284/sextreme.png" ,Sex Treme
-https://new.embedflix.co/p2p/sextreme/chunks.m3u8
-#EXTINF:-1 group-title="Privado (+18)" tvg-id="Sexy Hot" tvg-name="Sexy Hot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/SexyHot_RGB_Vermelha2.png" ,Sexy Hot
-https://new.embedflix.co/p2p/sexyhot/chunks.m3u8
 #EXTINF:-1 group-title="SporTV" tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" ,SporTV 1
 http://authbr15jul.halites.online:80/5932/index.m3u8
 #EXTINF:-1 group-title="SporTV" tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" ,SporTV 2
