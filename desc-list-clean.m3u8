@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png" ,Atualizado em 25/08/2024
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png" ,Atualizado em 10/09/2024
 https://assets.stickpng.com/thumbs/5c84ff73c115b30282adb589.png
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Band" tvg-name="Band" tvg-logo="https://imgur.com/xYGjfh8.png" ,Band
-https://cdn-4.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" ,Globo RBS
-http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/36850
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" ,Globo RJ
-https://new.embedflix.co/p2p/globorj/chunks.m3u8
+http://186.226.215.132:80/live/carlos123/carlos123/10.m3u8
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Record" tvg-name="Record" tvg-logo="https://imgur.com/lyQ1v9M.png" ,Record SP
-https://cdn-4.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/14639
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://w1.pngwing.com/pngs/589/704/png-transparent-tv-redetv-logo-tv-cultura-television-show-rede-globo-band-novo-tempo.png" ,Rede TV
-https://new.embedflix.co/p2p/redetv/chunks.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" ,SBT
-http://cdnexpress.homelinux.net/live/105.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/7367
 #EXTINF:-1 group-title="Canais Abertos" tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://i.imgur.com/9dGaIdY.png" ,TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 group-title="CazéTV" tvg-id="CazéTV" tvg-name="CazéTV" tvg-logo="https://imgur.com/m2OuD7o.png" ,CazéTV
@@ -28,128 +28,152 @@ https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8
 #EXTINF:-1 group-title="CazéTV" tvg-id="CazéTV" tvg-name="CazéTV" tvg-logo="https://imgur.com/m2OuD7o.png" ,CazéTV Jogo 5
 https://bal01.vivartec.com.br:8088/hls/livechannel5.m3u8
 #EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://www.nicepng.com/png/detail/134-1341542_discovery-channel-logo-png.png" ,Discovery Channel
-https://new.embedflix.co/p2p/discoverych/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/299696
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://www.startrekkers.com.br/wp-content/uploads/2017/10/dsc_1-s01e03-Enterprise_NX-01_Logo.png" ,Discovery H&H
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8904
 #EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logodix.com/logo/997920.png" ,Discovery ID
-https://new.embedflix.co/p2p/discoveryinvesticacao/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/14529
 #EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://logospng.org/download/discovery-kids/logo-discovery-kids-256.png" ,Discovery Kids
-https://cdn-4.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
-#EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://www.startrekkers.com.br/wp-content/uploads/2017/10/dsc_1-s01e03-Enterprise_NX-01_Logo.png" ,Discovery NX
-https://cdn-4.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8893
 #EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png" ,Discovery Science
-https://cdn-4.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8910
 #EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-theater-hd_m.png" ,Discovery Theater
-https://cdn-4.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8892
 #EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://w7.pngwing.com/pngs/19/158/png-transparent-discovery-turbo-television-channel-discovery-channel-logo-rua-gabriel-oeschler.png" ,Discovery Turbo
-https://new.embedflix.co/p2p/discoveryturbo/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8891
 #EXTINF:-1 group-title="Discovery" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://w7.pngwing.com/pngs/920/176/png-transparent-discovery-world-discovery-hd-discovery-channel-logo-hd-logo-television-text-logo.png" ,Discovery World
-https://cdn-4.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/279608
 #EXTINF:-1 group-title="Documentários" tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Animal-Planet-logo-500x281.png" ,Animal Planet
-https://new.embedflix.co/p2p/animalplanet/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8890
 #EXTINF:-1 group-title="Documentários" tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://cdn-1.webcatalog.io/catalog/history/history-icon-filled-256.png" ,History Channel 1
-https://new.embedflix.co/p2p/history/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8901
 #EXTINF:-1 group-title="Documentários" tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://www.tvprogramacao.com/static/storage/app/epg_channel_icons/b08/764/b0876407-bc7c-4061-bf83-c4b3db48df3e.png" ,History Channel 2
-https://new.embedflix.co/p2p/h2/chunks.m3u8
+http://authbr15jul.halites.online:80/5814/index.m3u8
 #EXTINF:-1 group-title="Documentários" tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent-300x200.png" ,Love Nature
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/360p-cc/index.m3u8
 #EXTINF:-1 group-title="Documentários" tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle-thumbnail.png" ,National Geographic
-https://new.embedflix.co/p2p/nationg/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/14531
+#EXTINF:-1 group-title="Documentários" tvg-id="TED" tvg-name="TED" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/free-ted-13-461831.png" ,TED
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62ab5aabbb869dd0df6a3487/variant.m3u8?url=d8a19e8f303a196698902d5671fed928-12da03a5d99c61ea1acd7ede85b0061d231e407958b63244bc839553181082590206a74151b9ce978cd148abef5b7a48c51eb921ec4f846f5b2e92c700f1899d34afd0538d9f999cad7e7276c492fc54fb56108cb09461a695d026b68414c3589aeb90eb699a956d46c87d3b71abc5488d676cc87c7b6828cae5334112cc66d365a5cf1fe3ec5c6354466fe7b8f2ae6b0ba7390cabbf2d6cb264277901060151d104c0069b98f70929cbdf386110e242f7aa087537fd0fc4675b6c6a777981f0&x-plex-token=siayWXWjCh-xozmCUKsi&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1725374763&autoPreview=0
+#EXTINF:-1 group-title="Documentários" tvg-id="Unexplained" tvg-name="Unexplained" tvg-logo="https://images-platform.99static.com//m4X6Scy_qdPcSCeVSXN-DzGO8uw=/257x278:2242x2265/fit-in/500x500/projects-files/109/10900/1090090/e0692e26-9285-4f19-9b7d-52bfec988f10.png" ,Unexplained
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-62913be9a0ed9c2b6ae63bac/variant.m3u8?url=1035245e8b283b1941a8e4cb2f9b3464-5fa49e4cd36139e25e30068f1eb08f5f65ff85ed5ce56c0e728b2cb13576881bedef36d3839c97ecd79790c8ef39b422b4b68b82e4df31857cc11b7afa053bbc8e8a8b0f1edb3cb5f38aa98dedc821bf822b1a55962493c9996dcc99500d9f480d703a26b373239b88251c92bff918ff9d664b3b80971b5b283d48b7d77906106c39990d5369a7b051a286df2c45144625fcaa1e916e6148a447636f408e0a01d8ac6dcb0abd1e8f1c560e6578a51db7ed6ede1cec05ce3015a1cb74b45289c2&x-plex-token=EkbVCfDZ7zNDSEGhskFr&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1725374658&autoPreview=0
 #EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 1
-https://cdn-4.nxplay.com.br/ESPN/index.m3u8
+http://authbr15jul.halites.online:80/5912/index.m3u8
 #EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 2
-https://cdn-4.nxplay.com.br/ESPN_2/index.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8801
 #EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 3
-https://cdn-4.nxplay.com.br/ESPN_3/index.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/290657
 #EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 4
-https://cdn-4.nxplay.com.br/ESPN_4/index.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/299345
 #EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 5
-https://new.embedflix.co/p2p/espnextra/chunks.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140
 #EXTINF:-1 group-title="ESPN" tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" ,ESPN 6
-https://cdn-4.nxplay.com.br/ESPN_EXTRA/tracks-v1a1/mono.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8789
 #EXTINF:-1 group-title="Esportes" tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://imgur.com/HyeeIkG.png" ,Band Sports
-https://stream.embedflix.co/p2p/bandsport/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8777
 #EXTINF:-1 group-title="Esportes" tvg-id="Billiard TV" tvg-name="Billiard TV" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2022/01/World-Billiards-TV_Logo_sml.png" ,Billiard TV
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6334a8e48a7b2a349d903b8c/variant.m3u8?url=b47f72b20a26c04c74f4bc220ef9009e-9fd30d90d302b2810558d27f021de7843462c3bde8cacfab291522479e3ed14eebf154f033fa10b1224a7df7686ecd54618a19d88f81c3fd1b7379ff97ef06773ca56ed6274bf2e6813e92628f6576f15fe3f366f5ec942bedffd4d42b2b6426f1df7da51fe6f967dbdf08a18985b1789d4dbdf521d2725881e435508526646a879de9eb54951f5c58cd9c8aad20b3aa42c06349494997eb7ab9355dbafa2e8f9e67af53f5761680147761de0a4ed1da45cfcd87226f26b5d6a6e8b937231b9d8afb186e9ac53ac50d1477d829316050d8384ae8ed24b47d2fd294f06d2648d9ca351027c7a0589159bdfb7b0b496261345678de9d232e12cd0b489ba5c46272db33a1dff0b1845e820c00e719ffb4a1e9c9da6d738ae1eb64f0a1ae38550ecc23daed2e0d6b20ea3d2dabfb14a3de68117078d01370f014305f86bd9f35012d07a7737af45ec83ca5a3c665e10e1455db2205b3056c599612933984b9099fa5c73bdd8966cc02a0ca0e9aa566cc5d9b01047b8fe8e9bfc21949e4134b7d37d5385f9cc665ca8c52b83e9e5f220390b66a740f515e6c9b13fa771c6e4418f23c4669ced9971766b4c43e4936d0833046276d4800b3c1ab51757f7ca943487fbd8f850b8a25ad791d2b9aa6079fdb55f2d2b8b42609eb541706be6e8c643396d40272bc5cba565c3086e4f2407f04cabd82f59e34e7818127ed0caae97e8eea3ad5ac15653f9cb47b42b3a6ef10e1306921240542f2b9fe0a8bc4308f4373187ed92b80349d83dd5fedd9bb7be28bbece37fda9ad299bce06e4537e995b10ab8b176b162a89989167f5ded7ee62320b4eec99a6f02282ad45e0f436676b1f397967ea77b2414cdf90f2bb93085b034056b77478da7d8de2dda367b5c15db0d01a5a2ad7027e25eda1996360308cbb527bf0f59775acc9da4d5dd59609279bc2024c67f37dc61d987ce3a7942c240ef67c8e8260352936e0986bb0cbd9c4e7e0092f56749748a576d912dfd06222764bbc2f05e7270b6d1b61dd5bb90fd91117198e3938f9f33a4a80fb68ebfcbb9ea3f7faf8a53861dffeff379383fae020b84eb9d4d732b1ec548393d00592afb4b065b65b9cf7677bd0fb4a74e3d8f574327f7b4b7ec89946ae0f0abc1dd704663b573616485af7f5de8da6455908793d429a7ed6eaf27765473b27c0332e82c9e1507ecc4a5231f4b97ea09177eba5e674094d84fb889b51c6f9693d33daacd2752195c39c9f25f97c1a376ba098e42752ee01b329f90068617e6a49ec1c22cfc2e470728dd8c5b1f1c33160794a787459fd06d483b1eb3f3d83e7a5488d9e1d6b0e348f58929bb075b7c2f4ab1b624768d1a8a963a3fa0f0df42698038cde18474adce3b94034c6987990e934f9bd63136300c72f4227ba4f716ac3bffb48be2eab00b0fea6470866488b901b47fc0b5bcfcfad41284d031f5b0b605895cf40e436c5164dc990957ea10c8c749902589b110c9f033216ea3843904083265ac0d931b0d27f30a134cb5cfeeeea9683c70f84f6e78e995a3c627405ba634fd8e365cd9078098c8a2ceefaecc461b5b43ce9a2909ecb2a22ceff9940ae487a38945279a1f9b48a6e90179f1a872b1263f81330b60fff36beb831b37cef621bb5546bf45cdd5669e830f5af542ef45c63fbc770f86ddd9f43d98e5047d242c3cb34823aeccf580fca7a2308f47eccaeef378df520a47d8c131e6a33948e4a58a26d1d8bd66343dd6da265eca38b476fad686af874ddab00631cad7b05fd0282a75ab1ded033c4d1111b28e4753433856272fb1e35529786fb11bcc35cbb5f9e213622224f3e0be3c29ac8e61163e327f74eb6e614918423c1b2ef0a258804685f6520b4a47a1ab1f212595db48c40c1539fdbad7969e12f4eab566d0c5257a5b2ec8f5e8c81cdf20ae6d4961fcb6619f3703724e51be275591c15adffa1adf56de38e6ddc05cdf6c8698c698816b9de9e987200d5156d665bee2798113c9e175fd6c2908be1474dfd2db45ec83141f516f4f9b8b21e574f0f3f73ed7aa6bdb384469e032237b2de6481a649c153030e5185d6cead26b0611a024517ef2b2e62e06c0f8c93d9b4396c3066f29e209036b1a7a647707e22513f50f76993f5c557ac469e4d6009d15b3879221756ea9319e9624af6ee98aa67ffa072db0fa94753cfc5a9753d1ada798abf253bb8c68ec3d7a17a8102ab09522162849bb7df841413316224ac923ddcb64992fce56247dad8979ada0986d3e667a040f6fb84d0fba6ab7371b2e840a2f4c650fda45caad0297aa87daedd8a1247835e4ae45f893f6b12f1ab9e7f009336f9c84bb0ec7cc3a8bce9abc36a6f8d9de60419ffcc423613c75faafcba8448d82e30253e4a7219a76cf2f7b98e79a60e55a6600ba532b64c36a08e65f33b6466f9813a27fb99c2ce6c9e5f8d5927821d9b544394486c3c6b4a09126a17191eeda5bfb2758c9e4f40812cb12cfe5afb91b0cc63a581b3a8441b12c379a056f90c1766b4561baa0018602d1d91fcba6af078d4803cd929695477e39eeed7c32af758095d05d5dc079fc4061f16873bd854b24b06a4c3b4d0d46c88baa5b43fb2ebff541852f831989bfd2fc86a509cafe387b7a33928ea82ae57d6f43b9b85a9b7d1931be4fc4a3232bb96b5b3458b31de5ddc55374627dca78db1d8c2f48ad4e18cf6060e677c3a696bfb83d89e4e54d779eae464a704b5a14ec8a55f7df1ae34dde7b3a234524595a19667b588d650b9dc1cbe228d3d72633d4d7aba31ca407c960623431a66b06e17ced68fe3f854375d3de2b135f8ab60d0cf8f171db58a39c75debd816bcb11c4e7261cf4cb69dd212c4734ff86585fbc2ef3e675a112307895a1bfcdaeb1f4f5be484becae5b60a81ab0a828fedcce64dce171fb26f76bd70e6c46fde2530394b95eb6376d965554445f3f2e8c0bf275d967f84bce4e90320120e29fa1cbe21e1743c66f07d31813615dfcfd8edcfc33db79df00c1b2e4162bb50e40ff2026ea1d732&x-plex-token=Zmui3Vjt8ahZyUA-UziP&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1724254863&autoPreview=0
 #EXTINF:-1 group-title="Esportes" tvg-id="Canal Combate" tvg-name="Canal Combate" tvg-logo="https://imgur.com/HIiZUQN.png" ,Canal Combate
-https://stream.embedflix.co/p2p/combate/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8778
 #EXTINF:-1 group-title="Esportes" tvg-id="Combate Global" tvg-name="Combate Global" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/640px-CG_logo_final.svg.png" ,Combate Global
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 #EXTINF:-1 group-title="Esportes" tvg-id="FUEL TV Brasil" tvg-name="FUEL TV Brasil" tvg-logo="https://m.media-amazon.com/images/I/31wISky2iHL.png" ,FUEL TV Brasil
 https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/cb543d177a6c678c9ad43e6fd5ef49a4f9791fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d360439cd1dd56c49c1da71b813727616749386b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d46ce0375551ac0a3c023088bc0aac6b54c4850e967e28defbc068397e0c42ca085cb1a85caaf7e1584cde0e03802669adf5a804b368fba67ea9b6a619cf09df2ad33ca7a093faf38e564ba3499434ed211d50625c94856b9aca5ccca9f2f4862e105a2a2e5af4b79cbe6f3083405159ba83a322d44d72bceb17b21a468909970fa3228b65ae0ce7e541e09eaed3082653c19d0e3775f5b7e7e2ff441af3f9ba3f8f83d30520c9025739374478685a199df8d91d87c25aa5b72cba84680834cfaba8faf79daee0aa844690248592bac87d0a796a0a06894ab1da43ef698b36f9955316554312f9c115dcd08d05707059dcd10e8d5d4bf09bac86dc053485324b0bb830880b542cea3d7e79e322e1d56d3ddc685af74657926f3c8e46f3af3fb5f0a983280ff5888913852a85d227ddec0ba5613d237395fb3e5a43436590a3263a3977c74af3c08886530c13e7e3c2eeca3169532176b26d1e2225a6fd6220e605e0dbda4424da0fff88cb2a58/14/640x360_1020800/index.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-id="Nosso Futebol" tvg-name="Nosso Futebol" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/eb/Logotipo_nosso_futebol.png" ,GE Fast
 https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-id="Hard Knocks" tvg-name="Hard Knocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" ,Hard Knocks
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5fd115bdb7ef8d002dcf1820/variant.m3u8?url=f955161c57c53e3f50e6172327eeba9f-537e0b27ce1df7471956615ae7b87c16e221463e98993ed8ddfc4a7714fe80178df8e22c5e52d3b9ac456cb6cb2d74e7ab62a3ece71d7136b7414ff8bbb914161aa71e0e7cbaa20f2317734f1d5e1d7dc8b2f8f0f4373b359b210b65265a27eb1638cfbea433cd20da41ad432826e580fcbfae9ffcfe060b0eeded0f10eb9ac377daae3414e80175c37e45e7e5ae9592c1af6ef37175d973d8bbf7a491bcfc2b&x-plex-token=3os7u-ELce8HAB18WFGF&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1725331346&autoPreview=0
 #EXTINF:-1 group-title="Esportes" tvg-id="MAVTV Brasil" tvg-name="MAVTV Brasil" tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG.png" ,MAVTV Brasil
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a6818c7bdc8d0008457b21livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Esportes" tvg-id="Motorvision TV" tvg-name="Motorvision TV" tvg-logo="https://www.mxgp.com/sites/default/files/news/image/MotorvisionTV2.png" ,Motorvision TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="Esportes" tvg-id="Pac-12 Insider" tvg-name="Pac-12 Insider" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/09/pac-12-logo-sml-blue.png" ,Pac-12 Insider
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-646c0dfbfb58444e4e1e262d/variant.m3u8?url=c9fc030bb0a66203cdab7dc2daa44f85-061dcb1102f2d88895f95c89442af4db05f63e73cdbf1521e2df52ba994e874c7a5f4721ea09f59509ff1618e8dfcb416d57dfc89ba835d69edf9368f3291f60ed84b98711a7ff96ae6dab0e2ef77e5875d47fb5fdcf2eb3927a818f05f2b97147af126f74f532fac34f0bffaa9ed9941640f4b442f8b23750790103acf252e20b20d9f9996f6ba82f3846ed6cf15c044d0f4bf8120bd66a2756be84b487828890f66f692af6934d90bf5d4f409ead939766e249f0260d89051890a86374f40f297a3442a825f8f135bf9bbeb23775df5f5c16cd4316c45b0417d013cbcb8bb2aa0e9c6e46ac662060649d57d6105e6d52c26a5c3a96f7fcd1f0d842df388efdd3cfd86d9b86ef254c3a06b93df7c6aef232ae177b014db2e3ed2d107c797fc39e0f5a5d0cdce6d9881fe5a4f10c4aeee4be54c3a60a2bd228f919e4fd3aefab95f67750972386c0f4d7be77657c2065a6840493a4ab46fa492eb20012b6654e8b3d01f790e9850de0d7de316a8dabc36accfc07c19ec5837125cd57b89aa6f031180090f14d255dc9a2bb38e2927c3228a952638711f9811586dc2194b8328b4735d952fbbbd3a3416d006782fab78884ac939345fc82c79b189b4d6b45e266c9e3da00e7348f18ccea91f1d7d53c0ba9269455353d25421a05799b603e061c6f76a032bec968fbeeb5228bac7100fef61e4c5239e586be1fb74fc725f902fcf8f2794b61a48e8c2b590219f11c5dea875f1f16325f287012dddfbc8b408d3186a03b57169e4ca875fc95bb311079c86ec766cd6f3a7a4c72ba3eef2573b9ebd3759617fa91976fa7be59ca261adf3a48420374fc5b11356e1126cdef00663e87538bf45b127a991c4dd37c649f25d21b3cfc88e65103d3ead3d3686a329cc9dfdae5772e3f5d7f5ea3f7ec0a160a2db93afa340a8ddc9d7098dfb3cb3c35d1d43c9a590f673f77faddaca33fc5a22d6e76d462dc50c88d1d4cdf8cafe8048b92515496169789c5720d2a9ae4e6d650b274d8b7d50f0e99484b1ad97feef75663c511256df94aed5119f3a742ffa4acf57f66cd1d5c3f07cc7a5a74d376bab6762f5b5c4fd4caa653010d6353d5b2b90cb8e7980a2bde64dba7f36eb1aeaea18fd24fc784b6f76f2831166bd3de7aa7d6b6d399caa40e3b4ccf89642b8b986f0cfa464d429e3d65b398686c74b248d08e5101d71e977b6e6a30f3e6fc0643cfaec8c89d4cd9c289fc8cb1ec995f12bf8349205d0d5e08c3e9c54976cdae69c245717717d98073bbd06dac46bf2bd0e901165acaa3284dc546bffbf3f88a5136eb5bc9c67fd7a9612d66cb1b9860f66b43d2126c68d88072b88f1da039ca7205baec114c36e5a6bc8b4ea6a83d43c57c0866d8d2b5ea660aa3e24fe7524bc95634cc030a879209a75ed4890281bff493d75d0f67ff33c0aaa18f20a1d3dba2ac8c28ea2f850e9eda8c37664cfd736e0694e51e659f071cc0789b433bef0c32982cb9656dd4dc3fb011cdd30f651c3ac215df057fa105219c239aee2ee16164cb00b9ad9b7af8ee9ab73bd73d17fcdc9a94d3b72ed5776343e627a1c7dc8b5f5b3a223683e31f0b2ffce42eb16e02a2869276428d8c42cec9e6de4476795bc29688391601385ad8e4d9957b9614ea52c547792d351e941ef63575ef87bfdc3544b9a6d442e6a27e0831cafaf0a5fb29791476bbe5620831edfe07ef823ee546522ddbb7dca96ae4d1213c358070942aeba5dfeb8a72c27c08da05f8c6b0b9e06495c677c28a8b47e89519ba279d1d675841c3d7fbf2e5482b2574eff694c4f940011355f2abf4d5041fdbf559730061f3a23f812515deb7622b1997e5d7f1204b7548140dbca21f287da69c5713b5827e183f4a3b5a40ca9f3d6a58108615f51635ba8c0aed3113aef2badfab46fa8642&x-plex-token=N8a6KszCEu3U6gw6esie&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1725374343&autoPreview=0
+#EXTINF:-1 group-title="Esportes" tvg-id="PokerGO" tvg-name="PokerGO" tvg-logo="https://www.advancedpokertraining.com/homepage/images/pokergowhite.png" ,PokerGO
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64ac687b4192b4e1bab96279/variant.m3u8?url=7453966325aeb2994e2357078d5ff758-7ca6b2550d81a2359d4355bc7b2cb7fe37bafdef5f61f69ff52e44760e5c1ea6df50310464ed66d9bc60d73734157fb23ef953d2e3c44178c9d14a2b2ca4ce23d73a11501120c4263bdee7155a597e690d08d113bc1b50d34ed4cb3c0ce98c2671e8d1e0bda6b8c0a45ee2188e1d431fb1a73470d1eb92fa1fabcab91ca802710d1074411985be108b8e739e22dc421b27e11d270ac4b10825e0869e1741910683025304dc981e7592a45a88e1665d6042bfbcffff2bb6c12a3c914b5f35648a8aa8b7f696104a3a79f0b265195f2734&x-plex-token=M67BvAq_SY3ubqsejEz1&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1725374032&autoPreview=0
 #EXTINF:-1 group-title="Esportes" tvg-id="Realmadrid TV" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" ,Realmadrid TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1 group-title="Esportes" tvg-id="Strongman Champions" tvg-name="Strongman Champions" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Strongman_Champions_League_%28logo%29.png" ,Strongman Champions
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-644b13a3a1c0a5b2024c8403/variant.m3u8?url=ef4f801485e21f05aebd04706a89b42a-a9c9de943047172d68fa6c543324903e0469df74a0984e51b46eccd2d93b84d790e1c1050fd7ffedaa3dac567b5539c21047686df35af4cbd619dfc73399470413cf718ea27dca2da86aa872b019e3c88421e28cb2d4a621400b95523559a834794806cf648513374a2aa61d2fa9dd50af642a4f59653dd46516b8266c8c5116ae642be0bac32c9bfe935641dd5f35d2abb82e6825bf43c18b007f67073a2602bbc607a3155417ab998b8a9e4243b9bb0fafe9a1e6920e80f60d179f56d5d52555299f5437baeb9014ddda851bbda7de01c101bf222157349d26bf0e63e58203&x-plex-token=ySWUtzHDK8j54scqiKUE&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1725331187&autoPreview=0
 #EXTINF:-1 group-title="Esportes" tvg-id="UFC Fightpass" tvg-name="UFC Fightpass" tvg-logo="https://imgur.com/AvV9rW9.png" ,UFC Fightpass
-https://new.embedflix.co/p2p/ufcfight/chunks.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://cdn.shopify.com/s/files/1/0065/8076/4727/files/logo.png" ,Wired2Fish
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-608a2c722957c9002c6a617b/variant.m3u8?url=e5b9ec0b2de192b00fb47690d3f725cf-3ff3642867078426d49c24ea53ffd033d62ac8a1213ec8242fe8d723dfbd9e8608731eb3d29e5833a7055c8f6d66ed7406bb72faab9605e6605eb70da4d67e0d97d264825f97cd44e33c64a49b3b4d50b36e84368abd03ffcd9860a593433ccd34680e0ad54a57e425e34f8fa1a500d7e6aa5b8c4e088f1e6dc09642424ef0a5215829732c9127f18644fab1715ae26265e4c8d601d6e14ac634dfe3f82f647b6fb15a50dd9431b6259cb1d32c21921330554e55a30865cd618ee5c8e7a68afadeea15a1d27659f401fa1de7821fc0d4&x-plex-token=Zmui3Vjt8ahZyUA-UziP&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1724249145&autoPreview=0
+http://78.159.104.203:2052/JgfgjjbcfyyDFD/678888yygfFFD/39
 #EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" ,HBO 1
-https://new.embedflix.co/p2p/hbo/chunks.m3u8
+http://authbr15jul.halites.online:80/5891/index.m3u8
 #EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/smM7mYc.png" ,HBO 2
-https://new.embedflix.co/p2p/hbo2/chunks.m3u8
+http://authbr15jul.halites.online:80/5857/index.m3u8
 #EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/2dINPFY.png" ,HBO Family
-https://new.embedflix.co/p2p/hbofamily/chunks.m3u8
+http://authbr15jul.halites.online:80/5859/index.m3u8
+#EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://static.guiadetv.com/channel/UKgwxQEaBQkLAOn3ooCfqGQ78v3FUejB1do2zJU2.png" ,HBO Mundi
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8837
 #EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" ,HBO Plus
-https://new.embedflix.co/p2p/hboplus/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8823
 #EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/OzINH3M.png" ,HBO Pop
-https://new.embedflix.co/p2p/hbopop/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/173434
+#EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://archive.org/download/HboSignature/hbo%20signature.png" ,HBO Signature
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8836
 #EXTINF:-1 group-title="HBO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://i.imgur.com/Mkxd6PK.png" ,HBO Xtreme
-https://new.embedflix.co/p2p/hboextreme/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8824
 #EXTINF:-1 group-title="Notícias" tvg-id="Band News" tvg-name="Band News" tvg-logo="https://imgur.com/jCZzNjF.png" ,Band News
-https://new.embedflix.co/p2p/bandnews/chunks.m3u8
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/14486
 #EXTINF:-1 group-title="Notícias" tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a024c9bc44f4adf14389bbfeab689cd2.webp" ,Bloomberg TV
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61d73ab0a7b7c7f703418516/variant.m3u8?url=94541af8ace1f4a3c8ce8b3dc2700d0e-3f8f5f4149a1b9d3b7f283d13e3f6982d2e78e76a964e02cfad9240b8877f8f94d8147933bad32ffcb16c8d2eafc3978433c40e0f86100301cfcad52cd2f222fb8173022e4e0c8da58375189a83398e1689ff1f78ed49117ff2bfcd6d54787833536bc068f60b4ac9d3c1cd493b9e965242fed01c181b27ee07ed9b4283bbdc91112eea132b3483bdd47a8ed125cfd529709956d37879ecac5932c958643b00c4eba0817c13f0afde9433963f95bc737f1bdbf07ee170d8aed9865093871785f8d40c03095ffd5ca9ca3f63863b7fd03&x-plex-token=Zmui3Vjt8ahZyUA-UziP&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1724258149&autoPreview=0
 #EXTINF:-1 group-title="Notícias" tvg-id="CNN Brasil" tvg-name="CNN Brasil" tvg-logo="https://imgur.com/4dfmnBs.png" ,CNN Brasil
-https://new.embedflix.co/p2p/cnnbr/chunks.m3u8
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="Notícias" tvg-id="Euronews" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png" ,Euro News
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6245cd154f27f4e9c76d67e9/variant.m3u8?url=c5104c04713647831ba31115e93a69ca-5c2984b5c6e4d03e606f4ec3bf8485752fe57a7725c6d466f9815b8df5b5b51396c93ef8a414cd8ca003004a74d587c1488b29240f20fdc1a606ab08bb20237ae4f8ba580ec2e90ac1cee534c536e1776fd5a002827dab3f4258ffac9c8ffd7cd57b9ff26dca6729e874a617794604d4050bd88a789f6ddb9b2d338732baa1ce5d8091d1ac751f6a88ce6167fb615f5337493c7176d5ba9d26ff6f16b70e23d3d6b0623c496fba36feddfa644716564e0528007f353c666bb8639e47588d830d9e53404f25d3a34ee2868743604ca63e&x-plex-token=Zmui3Vjt8ahZyUA-UziP&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1724252084&autoPreview=0
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 group-title="Notícias" tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://imgur.com/Wu4ykxo.png" ,Globo News
-https://new.embedflix.co/p2p/globonews/chunks.m3u8
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/498
 #EXTINF:-1 group-title="Notícias" tvg-id="JP News" tvg-name="JP News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png" ,JP News
-http://cdnexpress.homelinux.net/live/114.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f72livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 #EXTINF:-1 group-title="Notícias" tvg-id="Record News" tvg-name="Record News" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" ,Record News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https:%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount
+http://iptvtree.net:8080/romaniamedia/f35da5aefe/8859
 #EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 1
 http://186.226.215.132:80/carlos123/carlos123/501
 #EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 2
-https://new.embedflix.co/p2p/paramount2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI0IDI6NDQ6MjUgQU0maGFzaF92YWx1ZT1jaXBFZ3JpZmE3aWY4QTVtT1lQTXhRPT0mdmFsaWRtaW51dGVzPTE2MA==
+http://authbr15jul.halites.online:80/5827/index.m3u8
 #EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramoun" tvg-name="Paramoun" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 3
-https://new.embedflix.co/p2p/paramount3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI0IDI6NDI6MTcgQU0maGFzaF92YWx1ZT1OdFZyQkQyTkhieVZTWEhtKzdnNEd3PT0mdmFsaWRtaW51dGVzPTE2MA==
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
 #EXTINF:-1 group-title="Paramount Plus" tvg-id="Paramount" tvg-name="Paramount" tvg-logo="https://imgur.com/GPcKZ2i.png" ,Paramount 4
-https://new.embedflix.co/p2p/paramount4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI0IDI6NDI6MTcgQU0maGFzaF92YWx1ZT1OdFZyQkQyTkhieVZTWEhtKzdnNEd3PT0mdmFsaWRtaW51dGVzPTE2MA==
+http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/84451
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 1
-https://new.embedflix.co/p2p/prfc1/chunks.m3u8
+http://authbr15jul.halites.online:80/5922/index.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 2
-https://new.embedflix.co/p2p/premier2/chunks.m3u8
+http://authbr15jul.halites.online:80/5921/index.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 3
-https://stream.embedflix.co/p2p/premier3/chunks.m3u8
+http://authbr15jul.halites.online:80/5920/index.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 4
-https://stream.embedflix.co/p2p/premier4/chunks.m3u8
+http://authbr15jul.halites.online:80/5918/index.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 5
-https://new.embedflix.co/p2p/premier5/chunks.m3u8
+http://authbr15jul.halites.online:80/5916/index.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 6
-https://new.embedflix.co/p2p/premier6/chunks.m3u8
+http://authbr15jul.halites.online:80/5915/index.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 7
 http://izcdn.vood.top:80/hls/522_.m3u8
 #EXTINF:-1 group-title="PREMIERE" tvg-id="PREMIERE" tvg-name="PREMIERE" tvg-logo="https://imgur.com/T6VmjYB.png" ,PREMIERE 8
-https://new.embedflix.co/p2p/premier8/chunks.m3u8
+http://authbr15jul.halites.online:80/5914/index.m3u8
+#EXTINF:-1 group-title="Privado (+18)" tvg-id="Playboy Tv" tvg-name="Playboy Tv" tvg-logo="https://toppng.com/uploads/preview/open-playboy-tv-logo-11563247298s3fcukcvna.png" ,Playboy Tv
+https://new.embedflix.co/p2p/playboy/chunks.m3u8
+#EXTINF:-1 group-title="Privado (+18)" tvg-id="Sex Treme" tvg-name="Sex Treme" tvg-logo="https://bot.midiasimples.com.br/storage/284/sextreme.png" ,Sex Treme
+https://new.embedflix.co/p2p/sextreme/chunks.m3u8
+#EXTINF:-1 group-title="Privado (+18)" tvg-id="Sexy Hot" tvg-name="Sexy Hot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/SexyHot_RGB_Vermelha2.png" ,Sexy Hot
+https://new.embedflix.co/p2p/sexyhot/chunks.m3u8
 #EXTINF:-1 group-title="SporTV" tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" ,SporTV 1
-https://new.embedflix.co/p2p/sportv/chunks.m3u8
+http://authbr15jul.halites.online:80/5932/index.m3u8
 #EXTINF:-1 group-title="SporTV" tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" ,SporTV 2
-https://new.embedflix.co/p2p/sportv2/chunks.m3u8
+http://authbr15jul.halites.online:80/5931/index.m3u8
 #EXTINF:-1 group-title="SporTV" tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" ,SporTV 3
-https://new.embedflix.co/p2p/sportv3/chunks.m3u8
+http://authbr15jul.halites.online:80/5930/index.m3u8
 #EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://imgur.com/faV3eZx.png" ,Telecine Action
-https://new.embedflix.co/p2p/tlcaction/chunks.m3u8
+http://authbr15jul.halites.online:80/5875/index.m3u8
 #EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://i.imgur.com/Tavo4Zl.png" ,Telecine Cult
-https://new.embedflix.co/p2p/telecinecult/chunks.m3u8
+http://authbr15jul.halites.online/5899/index.m3u8
 #EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://i.imgur.com/eo6Js8D.png" ,Telecine Fun
-https://new.embedflix.co/p2p/tlcfun/chunks.m3u8
+http://authbr15jul.halites.online:80/5901/index.m3u8
 #EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://imgur.com/cPTZMTo.png" ,Telecine Pipoca
-https://new.embedflix.co/p2p/tlcpipoca/chunks.m3u8
+http://authbr15jul.halites.online:80/5877/index.m3u8
 #EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://imgur.com/SGr7sdL.png" ,Telecine Premium
 http://fzcdn.vood.top:80/hls/633_.m3u8
 #EXTINF:-1 group-title="Telecine" tvg-id="Telecine" tvg-name="Telecine" tvg-logo="https://i.imgur.com/viw732w.png" ,Telecine Touch
-https://new.embedflix.co/p2p/telecinetouch/chunks.m3u8
+http://authbr15jul.halites.online:80/5880/index.m3u8
